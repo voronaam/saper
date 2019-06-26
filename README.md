@@ -6,7 +6,7 @@ A game written on an i386 laptop, ages ago
 
 I have found it in a backup. The file is dated December 12, 2000.
 
-This was the first game we wrote for ourself in a dorm witih no internet, no computer and no games. This was a log of fun.
+This was the first game we wrote for ourself in a dorm witih no internet, no computer and no games. This was a lot of fun.
 
 The project has been converted to Lazarus, even though it would've been enough to open the PAS file in FreePascal.
 
