@@ -1,8 +1,7 @@
 ﻿# saper
 
 
-A game written on an i386 laptop, ages ago
-.
+A game written on an i386 laptop, ages ago.
 
 I have found it in a backup. The file is dated December 12, 2000.
 
